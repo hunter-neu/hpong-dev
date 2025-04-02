@@ -1,7 +1,7 @@
 {
   "name": "pw-dev",
   "version": "0.1.0",
-  "homepage": "https://hunter-neu.github.io/hpong-dev",
+  "homepage": "https://hpong.dev",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
